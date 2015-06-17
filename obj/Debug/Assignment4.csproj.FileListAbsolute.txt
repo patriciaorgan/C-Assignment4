@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\Project2015\Assignment4\bin\Debug\Assignment4.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\Project2015\Assignment4\bin\Debug\Assignment4.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\Project2015\Assignment4\bin\Debug\Assignment4.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\Project2015\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\Project2015\Assignment4\obj\Debug\Assignment4.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\Project2015\Assignment4\obj\Debug\Assignment4.pdb
+Z:\Documents\Visual Studio 2013\Projects\Assignment4\bin\Debug\Assignment4.exe.config
+Z:\Documents\Visual Studio 2013\Projects\Assignment4\obj\Debug\Assignment4.exe
+Z:\Documents\Visual Studio 2013\Projects\Assignment4\obj\Debug\Assignment4.pdb
+Z:\Documents\Visual Studio 2013\Projects\Assignment4\bin\Debug\Assignment4.exe
+Z:\Documents\Visual Studio 2013\Projects\Assignment4\bin\Debug\Assignment4.pdb
+Z:\Documents\Visual Studio 2013\Projects\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
